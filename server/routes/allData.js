@@ -1,6 +1,6 @@
 import { userModel } from "../models/user.js";
 import express from "express";
-import users from './heliverse_users.json' assert { type: 'json' };
+
 
 
 const router = express.Router()
